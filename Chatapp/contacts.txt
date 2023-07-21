@@ -1,1 +1,2 @@
 Contacts
+All contacts are visible to admin
